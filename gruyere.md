@@ -36,18 +36,14 @@
 
    Comprobamos cómo ha llegado la cookie.
 
-   ![Comprobación de cookie](image-11.png)
 
    Ahora he iniciado sesión con otro usuario llamado Pepe.
 
-   ![Inicio de sesión con Pepe](image-12.png)
 
    Desde la cuenta de Pepe, abro la terminal, voy a almacenamiento y modifico la cookie.
 
-   ![Modificación de cookie](image-13.png)
 
    Ahora modificaré la cookie de Pepe y colocaré la cookie de "hola", que es la que he enviado al servidor.
 
-   ![Reemplazo de cookie](image-14.png)
 
    Y al presionar Enter, ya me indica que soy "hola".
